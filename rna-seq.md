@@ -14,4 +14,4 @@ Gonad (Male, pooled)
 http://owl.fish.washington.edu/nightingales/P_generosa/Geo_Pool_M_CTTGTA_L006_R1_001.fastq.gz
 http://owl.fish.washington.edu/nightingales/P_generosa/Geo_Pool_M_CTTGTA_L006_R2_001.fastq.gz
 
-comments: notes: [Protein expression profiles during sexual maturation in Geoduck](http://onsnetwork.org/kubu4/category/protein-expression-profiles-during-sexual-maturation-in-geoduck/)    
+%[notes](http://onsnetwork.org/kubu4/category/protein-expression-profiles-during-sexual-maturation-in-geoduck/)    
