@@ -1,6 +1,6 @@
 #RNA-seq Data
 
-Species: _P. generosa_
+Species: _P. generosa_    
 Tissue: gonad    
 Illumina 100PE    
 Received: 20150629      
